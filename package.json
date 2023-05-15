@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "git": "^0.1.5"
   },
